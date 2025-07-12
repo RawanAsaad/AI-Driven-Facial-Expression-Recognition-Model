@@ -52,5 +52,5 @@ The model was trained on the [FER2013](https://www.kaggle.com/datasets/msambare/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/RawanAsaad/Facial-Expression-Recognition.git
+   git clone https://github.com/RawanAsaad/Facial-Expression-Recognition-Model.git
    cd Facial-Expression-Recognition
